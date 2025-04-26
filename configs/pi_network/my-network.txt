@@ -1,6 +1,6 @@
 [connection]
 id=my-network
-uuid= #Your_Unique_UUID
+uuid=MY_Unique_UUID
 type=802-11-wireless
 
 [802-11-wireless]
